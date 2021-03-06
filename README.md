@@ -7,4 +7,4 @@
 #           q to quit... I think 
 #
 #
-# I learned about modularity, classes, OOP and many great things from this game and Eric's book           
+I learned about modularity, classes, OOP and many great things from this game and Eric's book           
